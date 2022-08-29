@@ -1,5 +1,11 @@
 
-# DataRes S22 Research Coding Assessment
+# DataRes F22 Research Coding Assessment
+
+## Please download this repository as a .zip file from the green CODE dropdown in the top right and email me your completed <code>.ipynb</code> file.
+- EMAIL: irsyadadam@g.ucla.edu
+- Write "DataRes F22 Research Coding Assessment" as the subject of the email. The body can be blank.
+
+#
 
 #### Remarks from Research Head
 

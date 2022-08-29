@@ -1,7 +1,7 @@
 
 # DataRes F22 Research Coding Assessment
 
-### Overall, just head over to ResearchApps.ipynb, click on the "Open in Colab" button, save a copy of the notebook, and get to coding! After you're done, send me the file at irsyadadam@g.ucla.edu with the subject "DataRes Research Applications," and you should get a confirmation email back if I'm free.
+### Overall, just head over to [ResearchApps.ipynb], click on the "Open in Colab" button, save a copy of the notebook, and get to coding! After you're done, send me the file at irsyadadam@g.ucla.edu with the subject "DataRes Research Applications," and you should get a confirmation email back if I'm free.
 
 #
 

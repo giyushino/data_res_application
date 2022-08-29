@@ -1,11 +1,11 @@
 
 # DataRes S22 Research Coding Assessment
 
-### Remarks from Research Head
+#### Remarks from Research Head
 
 hihihihi my name is Irsyad, and I'm the Research Head this year! 
 
-I think for this quarter, we're either going to do object detection or NLP using BERT from the 2018 paper. If you don't know what any of these words mean, or am nervous regarding the work being done, don't worry!
+I think for this quarter, we're either going to do object detection or NLP using BERT from the 2018 paper. If you don't know what any of these words mean, or are nervous regarding the work being done, don't worry!
 
 **I will teach you everything from the ground up. You just have to put in the effort and show that you want to learn.**
 
@@ -15,7 +15,7 @@ That is what makes the DataRes Research team different from other data science o
 
 If you don't like this format, feel free to join when I am gone :) Other than that, hope to see you on the team!
 
-### Thanks, Irsyad Adam
+#### Thanks, Irsyad Adam
 
 #
 ### DataRes Research Team Meeting Overviews:

@@ -1,9 +1,7 @@
 
 # DataRes F22 Research Coding Assessment
 
-## Please download this repository as a .zip file from the green CODE dropdown in the top right and email me your completed <code>.ipynb</code> file.
-- EMAIL: irsyadadam@g.ucla.edu
-- Write "DataRes F22 Research Coding Assessment" as the subject of the email. The body can be blank.
+### Overall, just head over to ResearchApps.ipynb, click on the "Open in Colab" button, save a copy of the notebook, and get to coding! After you're done, send me the file at irsyadadam@g.ucla.edu with the subject "DataRes Research Applications," and you should get a confirmation email back if I'm free.
 
 #
 

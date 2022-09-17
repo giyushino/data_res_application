@@ -31,15 +31,15 @@ COMPUTER REQUIREMENTS:
 - a command line interface like Anaconda Prompt/Ubuntu/OSX terminal
 - a github account that you can push code to
 - Jupyter Notebook (we will be testing on <code>.ipynb</code>, but our pipelines wil all be python files <code>.py</code>)
-- a computer you can bring to the meetings (no integrated gpu required)
+- a computer you can bring to the meetings (no dedicated gpu required)
 #
 ### DataRes Projects Overview:
   
   S22: Graph Deep Learning: Integration of GCN Pipeline with Neo4j DBMS for Social Analysis
   
-  F23: Fine Tuning of Transformer Based Models
+  F23: Representation Learning with Transformer-based Language Models with Temporal Data
   
-  W23: Real Time Object Detection with Synthetic Datasets
+  W23: Increasing the Effectiveness of Real-time Object Detection with Synthetic Dataset Generation
   
  
 

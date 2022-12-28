@@ -1,17 +1,15 @@
 
 # DataRes F22 Research Coding Assessment
 
-### Overall, just head over to [ResearchApps.ipynb], click on the "Open in Colab" button, save a copy of the notebook, and get to coding! After you're done, send me the file at irsyadadam@g.ucla.edu with the subject "DataRes Research Applications," and you should get a confirmation email back if I'm free.
+### Overall, just head over to [ResearchApps.ipynb], click on the "Open in Colab" button, save a copy of the notebook, and get to coding! After you're done, send me the file at colinpcurtis826@g.ucla.edu with the subject "DataRes Research Applications," and you should get a confirmation email back if I'm free.
 
 #
 
 #### Remarks from Research Head
 
-hihihihi my name is Irsyad, and I'm the Research Head this year! 
+Howdy we're Colin and Chris and we're the Research heads for this quarter.  This is a quick assessment to just test basic proficiency with deep learning and libraries.
 
-I think for this quarter, we're either going to do object detection or NLP using BERT from the 2018 paper. If you don't know what any of these words mean, or are nervous regarding the work being done, don't worry!
-
-**I will teach you everything from the ground up. You just have to put in the effort and show that you want to learn.**
+**We'll will teach you everything from the ground up. You just have to put in the effort and show that you want to learn.**
 
 I just want to push this message across extremely heavily: we are not approaching these deep learning projects from the perspective of a data analyst or programmer; *we are approaching these projects with the mindset of a researcher.* Just like any biologist or scientist, we are going to dive deeply into novel literature regarding our field, and take existing technologies and extend them into applications of our liking. Just like a biologist looks at past studies, we will also look at recent studies regarding deep learning, and learn from them.
 
@@ -19,7 +17,7 @@ That is what makes the DataRes Research team different from other data science o
 
 If you don't like this format, feel free to join when I am gone :) Other than that, hope to see you on the team!
 
-#### Thanks, Irsyad Adam
+#### Thanks, Colin and Chris
 
 #
 ### DataRes Research Team Meeting Overviews:
@@ -39,9 +37,8 @@ COMPUTER REQUIREMENTS:
   
   F23: Representation Learning with Transformer-based Language Models with Temporal Data
   
-  W23: Increasing the Effectiveness of Real-time Object Detection with Synthetic Dataset Generation
+  W23: TBD.  Probably geometric deep learning or something like that.  
   
- 
 
   [ResearchApps.ipynb]: ResearchApps.ipynb
 

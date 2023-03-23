@@ -1,13 +1,13 @@
 
-# DataRes F22 Research Coding Assessment
+# DataRes S23 Research Coding Assessment
 
-### Overall, just head over to [ResearchApps.ipynb], click on the "Open in Colab" button, save a copy of the notebook, and get to coding! After you're done, send me the file at colinpcurtis826@g.ucla.edu with the subject "DataRes Research Applications," and you should get a confirmation email back if I'm free.
+### Overall, just head over to [ResearchApps.ipynb], click on the "Open in Colab" button, save a copy of the notebook, and get to coding! After you're done, send me the file at sammy7shang@g.ucla.edu with the subject "DataRes Research Applications," and you should get a confirmation email back if I'm free.
 
 #
 
 #### Remarks from Research Head
 
-Howdy we're Colin and Chris and we're the Research heads for this quarter.  This is a quick assessment to just test basic proficiency with deep learning and libraries.
+Howdy we're Lukas and Sammy and we're the Research heads for this quarter.  This is a quick assessment to just test basic proficiency with deep learning and libraries.
 
 **We'll will teach you everything from the ground up. You just have to put in the effort and show that you want to learn.**
 
@@ -17,7 +17,7 @@ That is what makes the DataRes Research team different from other data science o
 
 If you don't like this format, feel free to join when I am gone :) Other than that, hope to see you on the team!
 
-#### Thanks, Colin and Chris
+#### Thanks, Lukas and Sammy
 
 #
 ### DataRes Research Team Meeting Overviews:
@@ -31,13 +31,11 @@ COMPUTER REQUIREMENTS:
 - Jupyter Notebook (we will be testing on <code>.ipynb</code>, but our pipelines wil all be python files <code>.py</code>)
 - a computer you can bring to the meetings (no dedicated gpu required)
 #
-### DataRes Projects Overview:
+### DataRes Previous Projects Overview:
   
   S22: Graph Deep Learning: Integration of GCN Pipeline with Neo4j DBMS for Social Analysis
   
   F23: Representation Learning with Transformer-based Language Models with Temporal Data
-  
-  W23: TBD.  Probably geometric deep learning or something like that.  
   
 
   [ResearchApps.ipynb]: ResearchApps.ipynb

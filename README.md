@@ -1,8 +1,8 @@
-# THE CODING ASSESSMENT WILL BE UPDATED BY THE 25TH
+# THE CODING ASSESSMENT WILL BE UPDATED BY TONIGHT!! DON'T START UNTIL THIS WARNING IS GONE!!
 
 # DataRes S23 Research Coding Assessment
 
-### Overall, just head over to [ResearchApps.ipynb], click on the "Open in Colab" button, save a copy of the notebook, and get to coding! After you're done, send me the file at sammy7shang@g.ucla.edu with the subject "DataRes Research Applications," and you should get a confirmation email back if I'm free.
+### Overall, just head over to [ResearchApps.ipynb], click on the "Open in Colab" button, save a copy of the notebook, and get to coding! After you're done, send us the files at sammy7shang@g.ucla.edu & lukasbroc@gmail.com with the subject "DataRes Research Applications," and you should get a confirmation email back if I'm free.
 
 #
 

@@ -1,6 +1,8 @@
 # DataRes F23 Research Coding Assessment
 
-### Overall, just head over to [ResearchApps.ipynb], click on the "Open in Colab" button, save a copy of the notebook, and get to coding! After you're done, send us the files at sammy7shang@g.ucla.edu & lukasbroc@gmail.com with the subject "DataRes Research Applications," and you should get a confirmation email back if I'm free.
+## Due by 11:59pm, October 10
+
+### Overall, just head over to [DataRes_Research_Coding_Assessment.ipynb], download the notebook, open it in Google Colab, and start coding! After you're done, send us the files at sammy7shang@g.ucla.edu & lukasbroc@gmail.com with the subject "DataRes Research Applications".
 
 #
 

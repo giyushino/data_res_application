@@ -8,7 +8,7 @@
 
 #### Remarks from Research Head
 
-Howdy we're Lukas and Sammy and we're the Research heads for this quarter.  This is a quick assessment to just test basic proficiency with deep learning and libraries.
+Hey! We're Lukas and Sammy and we're the Research heads for this quarter.  This is a quick assessment to just test basic proficiency with deep learning and libraries.
 
 **We'll will teach you everything from the ground up. You just have to put in the effort and show that you want to learn.**
 

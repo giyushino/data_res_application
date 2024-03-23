@@ -1,16 +1,14 @@
-# DataRes F23 Research Coding Assessment
+# DataRes S24 Research Coding Assessment
 
-## Due by 11:59pm, October 10
+## Due by April 5, 2024 @ 11:59 PM
 
-### Overall, just head over to [DataRes_Research_Coding_Assessment.ipynb], download the notebook, open it in Google Colab, and start coding! After you're done, send us the files at sammy7shang@g.ucla.edu & lukasbroc@gmail.com with the subject "DataRes Research Applications".
+### To start, head over to [DataRes_Research_Coding_Assessment.ipynb] and download the notebook. Open it in either Google Colab or Kaggle notebook (I prefer Kaggle because the GPUs are faster) and start coding! This assessment will be done using PyTorch, so apologies if you're more familiar with TensorFlow (although the concepts will still carry over). After you're done, send me the file at larrylu0302@g.ucla.edu with the subject "DataRes Research Application S24".
 
 #
 
 #### Remarks from Research Head
 
-Hey! We're Lukas and Sammy and we're the Research heads for this quarter.  This is a quick assessment to just test basic proficiency with deep learning and libraries.
-
-**We'll will teach you everything from the ground up. You just have to put in the effort and show that you want to learn.**
+Hey! I'm Larry, and I'll be the research head this year.  This is a quick assessment to just test basic proficiency with deep learning and libraries.
 
 We just want to push this message across extremely heavily: we are not approaching these deep learning projects from the perspective of a data analyst or programmer; *we are approaching these projects with the mindset of a researcher.* Just like any biologist or scientist, we are going to dive deeply into novel literature regarding our field, and take existing technologies and extend them into applications of our liking. Just like a biologist looks at past studies, we will also look at recent studies regarding deep learning, and learn from them.
 

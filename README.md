@@ -1,4 +1,4 @@
-# DataRes S24 Research Coding Assessment
+# DataRes F24 Research Coding Assessment
 
 ## Due by October 4th, 2024 @ 11:59 PM
 

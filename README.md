@@ -22,6 +22,8 @@ That is what makes the DataRes Research team different from other data science o
   S22: Graph Deep Learning: Integration of GCN Pipeline with Neo4j DBMS for Social Analysis
   
   F23: Representation Learning with Transformer-based Language Models with Temporal Data
+
+  S24: Large Language Models to Solve Math Word Problems
   
 
   [ResearchApps.ipynb]: ResearchApps.ipynb

@@ -1,6 +1,6 @@
-# DataRes F24 Research Coding Assessment
+# DataRes W25 Research Coding Assessment
 
-## Due by October 4th, 2024 @ 11:59 PM
+## Due by January 10th, 2025 @ 11:59 pm PT
 
 ### To start, head over to [DataRes_Research_Coding_Assessment.ipynb] and download the notebook. Open it in either Google Colab or Kaggle notebook (I prefer Kaggle because the GPUs are faster) and start coding! This assessment will be done using PyTorch, so apologies if you're more familiar with TensorFlow (although the concepts will still carry over). After you're done, send me the file at larrylu0302@g.ucla.edu with the subject "DataRes Research Application S24".
 
@@ -24,6 +24,8 @@ That is what makes the DataRes Research team different from other data science o
   F23: Representation Learning with Transformer-based Language Models with Temporal Data
 
   S24: Large Language Models to Solve Math Word Problems
+
+  F24: Retrieval Augmented Generation, Denoising Diffusion Probabilistic Models, Stock Price Prediction
   
 
   [ResearchApps.ipynb]: ResearchApps.ipynb
